@@ -37,3 +37,7 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Legacy Pipenv files (project uses uv)
+Pipfile
+Pipfile.lock
